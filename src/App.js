@@ -12,7 +12,8 @@ function App() {
         <Nav/>
         <main className="main">
           <Routes>
-            <Route path="/" element={<ComplexVerbPage/>} />
+            <Route path="/" exact element={<ComplexVerbPage/>} />
+            <Route path="/japan" exact element={<ComplexVerbPage/>} />
           </Routes>
         </main>
       </div>

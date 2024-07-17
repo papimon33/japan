@@ -14,7 +14,8 @@ function Content({ swipe, onSwipeHandled }) {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('/complexVerb.json');
+        // const response = await fetch('/complexVerb.json');
+        const response = await fetch(`${process.env.PUBLIC_URL}/complexVerb.json`);
         const data = await response.json();
         data.words = shuffleArray(data.words);
         setData(data);
