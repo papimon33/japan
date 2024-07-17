@@ -1,0 +1,491 @@
+{
+"total_count": 3,
+	"words": [
+		{
+			"word": "出掛ける",
+			"word_meaning": "외출하다, 나가다",
+			"examples": [
+				{
+					"example_sentence": "朝早く出掛けたら、交通渋滞に巻き込まれずに済みます。",
+					"example_meaning": "아침 일찍 나가면 교통 체증에 걸리지 않습니다."
+				},
+				{
+					"example_sentence": "友達と出掛けることは楽しいです。",
+					"example_meaning": "친구와 외출하는 것은 즐겁습니다."
+				},
+				{
+					"example_sentence": "週末に映画を見に出掛けるために、チケットを予約しました。",
+					"example_meaning": "주말에 영화를 보러 나가기 위해 티켓을 예약했습니다."
+				}
+			]
+		},
+		{
+			"word": "見付ける",
+			"word_meaning": "찾다, 발견하다",
+			"examples": [
+				{
+					"example_sentence": "道で財布を見付けたので、交番に届けました。",
+					"example_meaning": "길에서 지갑을 찾아서 경찰서에 가져다주었습니다."
+				},
+				{
+					"example_sentence": "新しいレストランを見付けて、友達と食事に行きました。",
+					"example_meaning": "새로운 레스토랑을 찾아 친구와 식사를 하러 갔습니다."
+				},
+				{
+					"example_sentence": "失くした鍵を見付けるために、家中を探しました。",
+					"example_meaning": "잃어버린 열쇠를 찾기 위해 집 안을 뒤졌습니다."
+				}
+			]
+		},
+		{
+			"word": "思い出す",
+			"word_meaning": "떠올리다, 기억해내다",
+			"examples": [
+				{
+					"example_sentence": "昔の写真を見ると、学生時代のことを思い出します。",
+					"example_meaning": "옛날 사진을 보면 학창 시절을 떠올립니다."
+				},
+				{
+					"example_sentence": "彼の名前を思い出すことができませんでした。",
+					"example_meaning": "그의 이름을 기억해낼 수 없었습니다."
+				},
+				{
+					"example_sentence": "大切なことを思い出すために、メモを取るようにしています。",
+					"example_meaning": "중요한 것을 기억해내기 위해 메모를 하도록 하고 있습니다."
+				}
+			]
+		},
+		{
+			"word": "落ち着く",
+			"word_meaning": "안정되다, 진정되다",
+			"examples": [
+				{
+					"example_sentence": "深呼吸をすると、気持ちが落ち着きます。",
+					"example_meaning": "심호흡을 하면 마음이 진정됩니다."
+				},
+				{
+					"example_sentence": "彼と話すと、いつも心が落ち着きます。",
+					"example_meaning": "그와 이야기하면 언제나 마음이 안정됩니다."
+				},
+				{
+					"example_sentence": "新しい家に引っ越してから、やっと落ち着くことができました。",
+					"example_meaning": "새 집으로 이사하고 나서야 비로소 안정될 수 있었습니다."
+				}
+			]
+		},
+		{
+			"word": "繰り返す",
+			"word_meaning": "반복하다, 되풀이하다",
+			"examples": [
+				{
+					"example_sentence": "失敗を繰り返すことが成功への道です。",
+					"example_meaning": "실패를 반복하는 것이 성공으로 가는 길입니다."
+				},
+				{
+					"example_sentence": "同じミスを繰り返さないように注意してください。",
+					"example_meaning": "같은 실수를 반복하지 않도록 주의하세요."
+				},
+				{
+					"example_sentence": "効果的な学習方法を見つけるために、繰り返して試しています。",
+					"example_meaning": "효과적인 학습 방법을 찾기 위해 반복해서 시도하고 있습니다."
+				}
+			]
+		},
+		{
+			"word": "受け取る",
+			"word_meaning": "받다, 수령하다",
+			"examples": [
+				{
+					"example_sentence": "荷物を受け取ったら、すぐに確認してください。",
+					"example_meaning": "짐을 받으면 즉시 확인하세요."
+				},
+				{
+					"example_sentence": "メールを受け取った後、すぐに返信するようにしています。",
+					"example_meaning": "메일을 받은 후 즉시 답장하려고 하고 있습니다."
+				},
+				{
+					"example_sentence": "大事な書類を受け取るために、郵便局に行きました。",
+					"example_meaning": "중요한 서류를 받기 위해 우체국에 갔습니다."
+				}
+			]
+		},
+		{
+			"word": "引っ越す",
+			"word_meaning": "이사하다, 옮기다",
+			"examples": [
+				{
+					"example_sentence": "先月、新しいアパートに引っ越しました。",
+					"example_meaning": "지난달에 새 아파트로 이사했습니다."
+				},
+				{
+					"example_sentence": "転勤のために引っ越すことになりました。",
+					"example_meaning": "전근 때문에 이사하게 되었습니다."
+				},
+				{
+					"example_sentence": "便利な場所に引っ越すために、物件を探しています。",
+					"example_meaning": "편리한 곳으로 이사하기 위해 매물을 찾고 있습니다."
+				}
+			]
+		},
+		{
+			"word": "取り込む",
+			"word_meaning": "끌어들이다, 받아들이다",
+			"examples": [
+				{
+					"example_sentence": "新しい技術を取り込むことで、会社の競争力が高まります。",
+					"example_meaning": "새로운 기술을 받아들임으로써 회사의 경쟁력이 높아집니다."
+				},
+				{
+					"example_sentence": "重要なデータを取り込む際は、慎重に行ってください。",
+					"example_meaning": "중요한 데이터를 끌어들일 때는 신중하게 하세요."
+				},
+				{
+					"example_sentence": "最新の情報を取り込むために、日々勉強しています。",
+					"example_meaning": "최신 정보를 받아들이기 위해 매일 공부하고 있습니다."
+				}
+			]
+		},
+		{
+			"word": "見送る",
+			"word_meaning": "배웅하다, 보내다",
+			"examples": [
+				{
+					"example_sentence": "空港で友達を見送るのはいつも寂しいです。",
+					"example_meaning": "공항에서 친구를 배웅하는 것은 언제나 쓸쓸합니다."
+				},
+				{
+					"example_sentence": "重要なプロジェクトを見送る決定をしました。",
+					"example_meaning": "중요한 프로젝트를 미루기로 결정했습니다."
+				},
+				{
+					"example_sentence": "彼女を駅まで見送るために、早起きしました。",
+					"example_meaning": "그녀를 역까지 배웅하기 위해 일찍 일어났습니다."
+				}
+			]
+		},
+		{
+			"word": "飛び出す",
+			"word_meaning": "뛰어나가다, 돌출하다",
+			"examples": [
+				{
+					"example_sentence": "子供が急に道路に飛び出したので、驚きました。",
+					"example_meaning": "아이가 갑자기 도로로 뛰어나가서 놀랐습니다."
+				},
+				{
+					"example_sentence": "話の途中で会議室から飛び出してはいけません。",
+					"example_meaning": "이야기 도중에 회의실에서 뛰어나가면 안 됩니다."
+				},
+				{
+					"example_sentence": "急な用事ができて、会議を飛び出す準備をしました。",
+					"example_meaning": "급한 일이 생겨서 회의를 뛰어나갈 준비를 했습니다."
+				}
+			]
+		},
+		{
+			"word": "受け入れる",
+			"word_meaning": "받아들이다, 수용하다",
+			"examples": [
+				{
+					"example_sentence": "彼の提案を受け入れることにしました。",
+					"example_meaning": "그의 제안을 받아들이기로 했습니다."
+				},
+				{
+					"example_sentence": "新しい文化を受け入れるのは大切です。",
+					"example_meaning": "새로운 문화를 받아들이는 것은 중요합니다."
+				},
+				{
+					"example_sentence": "自分の失敗を受け入れるのは難しいことです。",
+					"example_meaning": "자신의 실수를 받아들이는 것은 어려운 일입니다."
+				}
+			]
+		},
+		{
+			"word": "話し合う",
+			"word_meaning": "상의하다, 논의하다",
+			"examples": [
+				{
+					"example_sentence": "彼と将来について話し合いました。",
+					"example_meaning": "그와 미래에 대해 상의했습니다."
+				},
+				{
+					"example_sentence": "問題を解決するために、皆で話し合う必要があります。",
+					"example_meaning": "문제를 해결하기 위해 모두가 상의할 필요가 있습니다."
+				},
+				{
+					"example_sentence": "新しいプロジェクトについて話し合う時間を取りました。",
+					"example_meaning": "새로운 프로젝트에 대해 논의하는 시간을 가졌습니다."
+				}
+			]
+		},
+		{
+			"word": "呼び掛ける",
+			"word_meaning": "부르다, 호소하다",
+			"examples": [
+				{
+					"example_sentence": "彼は皆に協力を呼び掛けました。",
+					"example_meaning": "그는 모두에게 협력을 호소했습니다."
+				},
+				{
+					"example_sentence": "大きな声で友達の名前を呼び掛けました。",
+					"example_meaning": "큰 소리로 친구의 이름을 불렀습니다."
+				},
+				{
+					"example_sentence": "環境保護を呼び掛ける運動をしています。",
+					"example_meaning": "환경 보호를 호소하는 운동을 하고 있습니다."
+				}
+			]
+		},
+		{
+			"word": "見直す",
+			"word_meaning": "재검토하다, 다시 보다",
+			"examples": [
+				{
+					"example_sentence": "レポートを提出する前に見直しました。",
+					"example_meaning": "리포트를 제출하기 전에 다시 보았습니다."
+				},
+				{
+					"example_sentence": "計画を見直す必要があります。",
+					"example_meaning": "계획을 재검토할 필요가 있습니다."
+				},
+				{
+					"example_sentence": "彼の意見を聞いて、考え方を見直しました。",
+					"example_meaning": "그의 의견을 듣고 생각을 다시 보았습니다."
+				}
+			]
+		},
+		{
+			"word": "出会う",
+			"word_meaning": "만나다, 조우하다",
+			"examples": [
+				{
+					"example_sentence": "旅行先で素敵な人々と出会いました。",
+					"example_meaning": "여행지에서 멋진 사람들과 만났습니다."
+				},
+				{
+					"example_sentence": "彼と出会ったのは偶然でした。",
+					"example_meaning": "그와 만난 것은 우연이었습니다."
+				},
+				{
+					"example_sentence": "新しいアイデアに出会うことができました。",
+					"example_meaning": "새로운 아이디어를 만날 수 있었습니다."
+				}
+			]
+		},
+		{
+			"word": "立ち上がる",
+			"word_meaning": "일어나다, 기립하다",
+			"examples": [
+				{
+					"example_sentence": "彼はゆっくりと立ち上がりました。",
+					"example_meaning": "그는 천천히 일어섰습니다."
+				},
+				{
+					"example_sentence": "試合に負けても、すぐに立ち上がることが重要です。",
+					"example_meaning": "경기에서 져도 곧 일어서는 것이 중요합니다."
+				},
+				{
+					"example_sentence": "新しいプロジェクトを立ち上げるために、会議を開きました。",
+					"example_meaning": "새로운 프로젝트를 시작하기 위해 회의를 열었습니다."
+				}
+			]
+		},
+		{
+			"word": "取り付ける",
+			"word_meaning": "설치하다, 장착하다",
+			"examples": [
+				{
+					"example_sentence": "エアコンを取り付けました。",
+					"example_meaning": "에어컨을 설치했습니다."
+				},
+				{
+					"example_sentence": "新しいシステムを取り付ける作業をしています。",
+					"example_meaning": "새로운 시스템을 설치하는 작업을 하고 있습니다."
+				},
+				{
+					"example_sentence": "防犯カメラを玄関に取り付けました。",
+					"example_meaning": "방범 카메라를 현관에 설치했습니다."
+				}
+			]
+		},
+		{
+			"word": "取り上げる",
+			"word_meaning": "다루다, 집어들다",
+			"examples": [
+				{
+					"example_sentence": "この問題を取り上げる必要があります。",
+					"example_meaning": "이 문제를 다룰 필요가 있습니다."
+				},
+				{
+					"example_sentence": "彼は新聞記事を取り上げました。",
+					"example_meaning": "그는 신문 기사를 집어들었습니다."
+				},
+				{
+					"example_sentence": "議題として取り上げるべき内容です。",
+					"example_meaning": "의제로 다루어야 할 내용입니다."
+				}
+			]
+		},
+		{
+			"word": "見上げる",
+			"word_meaning": "올려다보다, 존경하다",
+			"examples": [
+				{
+					"example_sentence": "星を見上げるのが好きです。",
+					"example_meaning": "별을 올려다보는 것을 좋아합니다."
+				},
+				{
+					"example_sentence": "彼の努力を見上げています。",
+					"example_meaning": "그의 노력을 존경합니다."
+				},
+				{
+					"example_sentence": "高いビルを見上げました。",
+					"example_meaning": "높은 빌딩을 올려다보았습니다."
+				}
+			]
+		},
+		{
+			"word": "引っ張る",
+			"word_meaning": "끌다, 당기다",
+			"examples": [
+				{
+					"example_sentence": "子供の手を引っ張って歩きました。",
+					"example_meaning": "아이의 손을 끌고 걸었습니다."
+				},
+				{
+					"example_sentence": "彼はドアを引っ張って開けました。",
+					"example_meaning": "그는 문을 당겨서 열었습니다."
+				},
+				{
+					"example_sentence": "チームを引っ張るリーダーです。",
+					"example_meaning": "팀을 이끄는 리더입니다."
+				}
+			]
+		},
+		{
+			"word": "見合わせる",
+			"word_meaning": "마주보다, 중단하다",
+			"examples": [
+				{
+					"example_sentence": "彼と見合わせて笑いました。",
+					"example_meaning": "그와 마주 보고 웃었습니다."
+				},
+				{
+					"example_sentence": "悪天候のため、旅行を見合わせることにしました。",
+					"example_meaning": "악천후 때문에 여행을 중단하기로 했습니다."
+				},
+				{
+					"example_sentence": "彼らは計画を見合わせました。",
+					"example_meaning": "그들은 계획을 중단했습니다."
+				}
+			]
+		},
+		{
+			"word": "成り立つ",
+			"word_meaning": "성립되다, 구성되다",
+			"examples": [
+				{
+					"example_sentence": "この契約は双方の同意によって成り立ちます。",
+					"example_meaning": "이 계약은 쌍방의 동의에 의해 성립됩니다."
+				},
+				{
+					"example_sentence": "会社は社員の努力で成り立っています。",
+					"example_meaning": "회사는 직원의 노력으로 구성되어 있습니다."
+				},
+				{
+					"example_sentence": "この理論は事実に基づいて成り立っています。",
+					"example_meaning": "이 이론은 사실에 근거하여 성립됩니다."
+				}
+			]
+		},
+		{
+			"word": "泣き出す",
+			"word_meaning": "울기 시작하다, 울음을 터뜨리다",
+			"examples": [
+				{
+					"example_sentence": "急に泣き出して驚きました。",
+					"example_meaning": "갑자기 울기 시작해서 놀랐습니다."
+				},
+				{
+					"example_sentence": "子供が泣き出したので、あやしました。",
+					"example_meaning": "아이가 울음을 터뜨려서 달랬습니다."
+				},
+				{
+					"example_sentence": "映画を見て感動して泣き出しました。",
+					"example_meaning": "영화를 보고 감동해서 울기 시작했습니다."
+				}
+			]
+		},
+		{
+			"word": "出来上がる",
+			"word_meaning": "완성되다, 다 되다",
+			"examples": [
+				{
+					"example_sentence": "このケーキは30分で出来上がります。",
+					"example_meaning": "이 케이크는 30분 만에 완성됩니다."
+				},
+				{
+					"example_sentence": "プロジェクトがやっと出来上がりました。",
+					"example_meaning": "프로젝트가 드디어 완성되었습니다."
+				},
+				{
+					"example_sentence": "素晴らしい作品が出来上がりました。",
+					"example_meaning": "훌륭한 작품이 완성되었습니다."
+				}
+			]
+		},
+		{
+			"word": "見守る",
+			"word_meaning": "지켜보다, 돌보다",
+			"examples": [
+				{
+					"example_sentence": "子供たちを温かく見守っています。",
+					"example_meaning": "아이들을 따뜻하게 지켜보고 있습니다."
+				},
+				{
+					"example_sentence": "彼の成長を見守るのが楽しみです。",
+					"example_meaning": "그의 성장을 지켜보는 것이 즐겁습니다."
+				},
+				{
+					"example_sentence": "私たちは彼の成功を見守っています。",
+					"example_meaning": "우리는 그의 성공을 지켜보고 있습니다."
+				}
+			]
+		},
+		{
+			"word": "受け止める",
+			"word_meaning": "받아들이다, 수용하다",
+			"examples": [
+				{
+					"example_sentence": "彼の意見を真剣に受け止めました。",
+					"example_meaning": "그의 의견을 진지하게 받아들였습니다."
+				},
+				{
+					"example_sentence": "その事実を受け止めるのは難しいです。",
+					"example_meaning": "그 사실을 받아들이는 것은 어렵습니다."
+				},
+				{
+					"example_sentence": "彼女の言葉を心に受け止めました。",
+					"example_meaning": "그녀의 말을 마음에 받아들였습니다."
+				}
+			]
+		},
+		{
+			"word": "見詰める",
+			"word_meaning": "응시하다, 주시하다",
+			"examples": [
+				{
+					"example_sentence": "彼女の目を見詰めました。",
+					"example_meaning": "그녀의 눈을 응시했습니다."
+				},
+				{
+					"example_sentence": "子供が興味深く絵を見詰めていました。",
+					"example_meaning": "아이가 흥미롭게 그림을 주시하고 있었습니다."
+				},
+				{
+					"example_sentence": "未来を見詰めて計画を立てました。",
+					"example_meaning": "미래를 응시하며 계획을 세웠습니다."
+				}
+			]
+		}
+	]
+}
